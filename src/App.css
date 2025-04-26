@@ -38,5 +38,11 @@
 }
 
 .read-the-docs {
-  color: #888;
+  background: #9DDEFF;
+}
+
+.button {
+border-radius: 11px;
+border: 2px solid #0AF;
+background: #FFF;
 }
